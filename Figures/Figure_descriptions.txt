@@ -1,0 +1,20 @@
+
+
+
+Model and data similarity density funciton: 
+A scatter plot made up of a model and data showing the spatial relationship. I used Gaussian kernal density estiamtion to create the colour scale for the plot.
+
+Time series of deformation:
+A time series of each of the ground velocity of different deformation sources.
+
+Density function:
+A density function showing the sampling rate across a large interferogram.
+
+Norm plots:
+Model A: Heatmap of the average downsampled pixel count: comparing minimum variance, original pixel size, and pixel number. 
+Model B: Plot of the Natural logarithm of the residual norm: quadtree vs original interferogram. The colour gradient representing the original pixel number.
+
+Original sources:
+Syntehtic velocity maps of different geological deformation sources. 
+
+
